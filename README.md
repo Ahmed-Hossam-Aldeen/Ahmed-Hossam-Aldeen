@@ -6,9 +6,7 @@
 
 <img src="https://profile-counter.glitch.me/Ahmed-Hossam-Aldeen/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+It's+Ahmed!;I'm+a+Python+Developer...;I'm+also+Machine+Learning+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=D79921&size=30&lines=Hey!+It's+Ahmed!;I'm+a+Python+Developer...;I'm+also+Machine+Learning+Eng;)](https://git.io/typing-svg)
 
 
 
